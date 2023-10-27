@@ -1,0 +1,36 @@
+Task 1:-
+  Q1:-
+
+  var a =  ;
+  var b =   ;
+  var c =   ;
+  var d = ;
+  console.log(a);
+    console.log(b);
+      console.log(c);
+        console.log(d);
+
+Q2:-
+
+var myvar= 1;
+console.log(myvar);
+
+Q6. Convert the string to integer
+parseInt()
+Plus sign(+)
+
+
+Task 2:-
+
+     Q1:-
+        
+      var a = 2;
+      console.log(a^2);
+
+      Q3:-
+        var a = 2 ;
+        var b =  3 ;
+        var c = 4;
+        console.log(a+b+c);
+
+        
