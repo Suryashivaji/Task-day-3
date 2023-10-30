@@ -1,15 +1,20 @@
 // Q 1
 
 let obj1={
-  "name" : "person1",
-  "age" : 5
+  name : "person1",
+  age : 5
 }
  let obj2 ={
-  "age" :5,
-  "name" : "person1"
+  age :5,
+  name : "person1"
  }
+ let json1 = JSON.stringify(obj1);
+ let json2 =JSON.stringify(obj2);
  if(obj1===obj2){
-  console.log("true");
+  console.log("True");
+ }
+ else{
+  console.log("False");
  }
 
 // Q 2
